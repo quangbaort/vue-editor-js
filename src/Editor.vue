@@ -6,7 +6,6 @@
 import {
   reactive,
   onMounted,
-  // eslint-disable-next-line no-unused-vars
   watch,
   defineComponent
 } from '@vue/composition-api'

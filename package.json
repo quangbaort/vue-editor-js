@@ -36,7 +36,7 @@
     "src"
   ],
   "dependencies": {
-    "@editorjs/editorjs": "2.23.2",
+    "@editorjs/editorjs": "2.32.0",
     "@vue/composition-api": "^0.5.0"
   },
   "devDependencies": {
